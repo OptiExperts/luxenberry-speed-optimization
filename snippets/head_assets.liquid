@@ -14,7 +14,7 @@
 
 <link id="sett_clt4" data-href="{{ 'sett_cl.css' | asset_url }}" rel="stylesheet">
 {%- if settings.custom_css %}<link rel="preload" as="style" href="{{ 'custom.scss.css' | asset_url }}">{{- 'custom.scss.css' | asset_url | stylesheet_tag -}}{% endif -%} 
-<link data-href="{{ 'line-awesome.min.css' | asset_url }}" rel="stylesheet">
+<link href="{{ 'line-awesome.min.css' | asset_url }}" rel="stylesheet">
 <script id="js_lzt4" type="lazyload2" data-src="{{ 'lazysizes.min.js' | asset_url }}" defer="defer"></script>
 <script type="lazyload2">document.documentElement.className = document.documentElement.className.replace('no-js', 'yes-js');const t_name = {{t_name | json}}, t_cartCount = {{ cart.item_count | json}},ThemeNameT4='kalles',ThemeNameT42='ThemeIdT4Kalles',ThemeIdT4 = {{shop.metafields.t4pcc.kalles |json}},ThemePuT4 = '#purchase_codet4',t_shop_currency = {{ cart.currency.iso_code | json }}, t_moneyFormat = {{ shop.money_format | json }}, t_cart_url = {{ routes.cart_url | json }}, pr_re_url = {{ routes.product_recommendations_url | json }};{% comment -%} This code is done to force reload the page when the back button is hit (which allows to fix stale data on cart, for instance){% endcomment %} if (performance.navigation.type === 2) {location.reload(true);}</script>
 <script type="lazyload2" data-src="{{ 'nt_vendor.min.js' | asset_url }}" defer="defer" id="js_ntt4"
