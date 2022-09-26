@@ -77,9 +77,9 @@ assign locale_url = product.url | split:'/products/' | first -%}
 
       {%- when 'title' -%}
         {%- if call_cl == "_ppr" -%}
-        <h1 style="justify-content: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px">{{product.title}}</h1>
+        <h1 style="text-align: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px">{{product.title}}</h1>
         {%- else -%}
-        <h1 style="justify-content: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h1>
+        <h1 style="text-align: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h1>
         {%- endif -%}
 
       {%- when 'pricereview' -%}
