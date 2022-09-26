@@ -122,7 +122,7 @@
            {%- case block.type -%}
 
               {%- when 'title' -%}
-                <h3 class="h1 product_title entry-title" style="text-align: center; font-size: {{block.settings.size}}px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h3>
+                <h3 class="h1 product_title entry-title" style="text-align: center; font-size: 24px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h3>
 
               {%- when 'pricereview' -%}
                 <div class="flex wrap fl_between al_center price-review">
@@ -568,7 +568,7 @@
       <div class="summary entry-summary">
          <h3 class="h1 product_title entry-title pe_none" style="text-align: center; font-size: 16px"><a href="#">Your product's name</a></h3>
          <div class="flex wrap fl_between al_center price-review">
-            <p class="price">{{1999 | money}}</p>
+            <p style="font-size: 20px !important;" class="price">{{1999 | money}}</p>
          </div>
          <div class="pr_short_des">
             <p class="mg__0">This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.</p>
