@@ -77,13 +77,13 @@ assign locale_url = product.url | split:'/products/' | first -%}
 
       {%- when 'title' -%}
         {%- if call_cl == "_ppr" -%}
-        <h1 class="product_title entry-title" style="font-size: {{block.settings.size}}px">{{product.title}}</h1>
+        <h1 style="justify-content: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px">{{product.title}}</h1>
         {%- else -%}
-        <h1 class="product_title entry-title" style="font-size: {{block.settings.size}}px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h1>
+        <h1 style="justify-content: center;" class="product_title entry-title" style="font-size: {{block.settings.size}}px"><a href="{{product.url | within: collection}}">{{product.title}}</a></h1>
         {%- endif -%}
 
       {%- when 'pricereview' -%}
-        <div class="flex wrap fl_between al_center price-review">
+        <div style="justify-content: center;" class="flex wrap fl_between al_center price-review">
            <p class="price_range" id="price{{call_cl}}">
             {%- if nav_up_size == 0 and current_variant.unit_price_measurement -%}
                 {%- if price_varies -%}<span class="price_varies">{%- endif -%}
@@ -179,7 +179,7 @@ assign locale_url = product.url | split:'/products/' | first -%}
         </div>
 
      {%- when 'frm' -%}
-        <div class="btn-atc atc-slide btn_full_{{block.settings.btn_atc_full}} PR_no_pick_{{PR_no_pick}} btn_des_{{block.settings.btn_des}} btn_txt_{{block.settings.btn_txt}}">
+        <div style="text-align-last: center;" class="btn-atc atc-slide btn_full_{{block.settings.btn_atc_full}} PR_no_pick_{{PR_no_pick}} btn_des_{{block.settings.btn_des}} btn_txt_{{block.settings.btn_txt}}">
            {%- if nav_up_size == 0 -%}
               <div id="callBackVariant{{call_cl}}" data-js-callback class="nt_{{current_variant.option1 | handle}} nt1_{{current_variant.option2 | handle}} nt2_{{current_variant.option3 | handle}}">
                  {%- if nav_style_size > 0 %}{% render 'choose_style',call_cl:call_cl,default:default,style_tag_arr:style_tag_arr,style_tag:style_tag,nav_style:nav_style,pid:pid %}{% endif -%}
