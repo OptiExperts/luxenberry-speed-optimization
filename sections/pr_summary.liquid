@@ -90,7 +90,7 @@ assign locale_url = product.url | split:'/products/' | first -%}
                 {%- if on_sale -%}<del>{{ current_variant.compare_at_price  | money }}</del><ins>{{ current_variant.price | money }}</ins>{%- else -%}{{ current_variant.price | money }}{%- endif -%}
                 {%- if price_varies -%}</span>{%- endif -%}
                {%- capture unit_price_base_unit -%}
-                <span class="unit_base">
+                <span style="font-size: 20px;" class="unit_base">
                   {%- if current_variant.unit_price_measurement -%}
                     {%- if current_variant.unit_price_measurement.reference_value != 1 -%}
                       {{- current_variant.unit_price_measurement.reference_value -}}
@@ -99,7 +99,7 @@ assign locale_url = product.url | split:'/products/' | first -%}
                   {%- endif -%}
                 </span>
                {%- endcapture -%}
-               <span class="price__unit db"><span class="unit_price">{{ current_variant.unit_price | money }}</span><span>/</span>{{- unit_price_base_unit -}}</span>
+               <span class="price__unit db"><span style="font-size: 20px;" class="unit_price">{{ current_variant.unit_price | money }}</span><span>/</span>{{- unit_price_base_unit -}}</span>
             {%- elsif nav_up_size == 0 -%}
                {%- if price_varies -%}
                    {%- if block.settings.price == '1' -%}{{ product.price_min | money }} – {{ product.price_max | money }}
