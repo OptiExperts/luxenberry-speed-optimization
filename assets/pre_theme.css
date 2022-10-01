@@ -3207,7 +3207,7 @@ html.wf-fontawesome5free-n4-loading .fas:before {opacity: 0}
 	.product_title {
 		font-size: 16px;
 		margin-bottom: 10px !important;
-		font-weight: 600;
+		font-weight: 100;
 	}
 	.pr_carousel:after {
 	  content: 'flickity';
