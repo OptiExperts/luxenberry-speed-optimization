@@ -701,10 +701,46 @@
               "lb_cl": ""
             }
           },
+          "6ab693ba-f1cf-467e-9916-137cb2f6148e": {
+            "type": "catpr",
+            "settings": {
+              "title": "Happy Birthday Mama!",
+              "url": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": "",
+              "cat1": "happy-birthday-mom",
+              "image1": "shopify:\/\/shop_images\/1_gold.jpg",
+              "cat2": "",
+              "cat3": "",
+              "cat4": "",
+              "cat5": "",
+              "cat6": "",
+              "cat7": "",
+              "cat8": "",
+              "cat9": "",
+              "cat10": "",
+              "cat11": "",
+              "cat12": "",
+              "cat13": "",
+              "cat14": "",
+              "cat15": "",
+              "cat16": "",
+              "cat17": "",
+              "cat18": "",
+              "cat19": "",
+              "cat20": "",
+              "cat21": "",
+              "cat22": "",
+              "cat23": "",
+              "cat24": "",
+              "cat25": ""
+            }
+          },
           "b9ff1ff1-7d01-4d95-9289-7916c67e9fc1": {
             "type": "catpr",
             "settings": {
-              "title": "Twisties Earrings",
+              "title": "BEST SELLER: Twisties Earrings",
               "url": "",
               "icon": "",
               "lb": "",
@@ -977,43 +1013,6 @@
               "cat25": ""
             }
           },
-          "6ab693ba-f1cf-467e-9916-137cb2f6148e": {
-            "type": "catpr",
-            "disabled": true,
-            "settings": {
-              "title": "The Cuban Collection",
-              "url": "",
-              "icon": "",
-              "lb": "",
-              "lb_cl": "",
-              "cat1": "the-cuban-collection",
-              "image1": "shopify:\/\/shop_images\/1.jpg",
-              "cat2": "",
-              "cat3": "",
-              "cat4": "",
-              "cat5": "",
-              "cat6": "",
-              "cat7": "",
-              "cat8": "",
-              "cat9": "",
-              "cat10": "",
-              "cat11": "",
-              "cat12": "",
-              "cat13": "",
-              "cat14": "",
-              "cat15": "",
-              "cat16": "",
-              "cat17": "",
-              "cat18": "",
-              "cat19": "",
-              "cat20": "",
-              "cat21": "",
-              "cat22": "",
-              "cat23": "",
-              "cat24": "",
-              "cat25": ""
-            }
-          },
           "ad02e1db-4908-4b74-880b-239ef7032d90": {
             "type": "menu",
             "disabled": true,
@@ -1122,11 +1121,24 @@
               "lb": "",
               "lb_cl": ""
             }
+          },
+          "47da6205-01f6-45bf-b8d2-7b4ba2b2db22": {
+            "type": "menu",
+            "settings": {
+              "title": "Happy Birthday Mama!",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
           }
         },
         "block_order": [
           "74d32855-d623-401b-b874-6b1179ec91ea",
           "289dfaa3-67de-481d-ac02-6631b23d5613",
+          "6ab693ba-f1cf-467e-9916-137cb2f6148e",
           "b9ff1ff1-7d01-4d95-9289-7916c67e9fc1",
           "8b7c960d-a68c-4bef-ace3-338cd13054b6",
           "ed55de03-c37d-4c18-8cd3-88da82b0fb82",
@@ -1137,7 +1149,6 @@
           "mb_nav-5",
           "09e1df8c-a19f-4898-a7c0-5f8772c38166",
           "6f4d05b7-20da-48e6-ad8d-64d8656d5367",
-          "6ab693ba-f1cf-467e-9916-137cb2f6148e",
           "ad02e1db-4908-4b74-880b-239ef7032d90",
           "c898d29b-3990-430e-b60a-53d418905440",
           "c6b0d4d3-8063-4ff9-90eb-452237b0c01e",
@@ -1147,7 +1158,8 @@
           "mb_nav-8",
           "14a58843-76c2-42b0-a7cb-d1f4ccafbe41",
           "060da46e-5f99-41d4-9174-5c97e83984ff",
-          "6a3a4cd1-cfaf-4e88-943c-041e3abe7597"
+          "6a3a4cd1-cfaf-4e88-943c-041e3abe7597",
+          "47da6205-01f6-45bf-b8d2-7b4ba2b2db22"
         ],
         "settings": {
         }
