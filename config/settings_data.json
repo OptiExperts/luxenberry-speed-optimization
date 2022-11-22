@@ -3061,6 +3061,7 @@
           },
           "49031aee-5848-4324-9d7e-e862d273a8e9": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "just-launched-luxeneberry-twisties",
               "image": "shopify:\/\/shop_images\/1_673bb3d3-41ad-471b-a8d4-7b9b4ab5ef33.jpg",
@@ -3130,6 +3131,15 @@
               "img_align": "center",
               "title": ""
             }
+          },
+          "dc3bf62e-688d-4847-bb5c-328703446d49": {
+            "type": "collection",
+            "settings": {
+              "collection": "the-initials-collection",
+              "image": "shopify:\/\/shop_images\/Letter_2.jpg",
+              "img_align": "center",
+              "title": ""
+            }
           }
         },
         "block_order": [
@@ -3150,7 +3160,8 @@
           "75da4b1f-016c-43bb-b565-a514d6bf54c5",
           "b8979802-cb7f-4279-8878-074f5d8d809a",
           "36fdfc35-95b2-494e-b2d5-435236e4c312",
-          "00cc9490-7431-4321-b88f-57bdc99e5730"
+          "00cc9490-7431-4321-b88f-57bdc99e5730",
+          "dc3bf62e-688d-4847-bb5c-328703446d49"
         ],
         "settings": {
           "title": "MIX N' MATCH OUR COLLECTIONS<br> 1 FOR $35 :: 2 FOR $50",
