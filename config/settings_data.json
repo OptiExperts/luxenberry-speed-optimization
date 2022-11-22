@@ -703,6 +703,7 @@
           },
           "6ab693ba-f1cf-467e-9916-137cb2f6148e": {
             "type": "catpr",
+            "disabled": true,
             "settings": {
               "title": "Happy Birthday Mama!",
               "url": "",
@@ -980,13 +981,13 @@
             "type": "catpr",
             "disabled": true,
             "settings": {
-              "title": "All Bracelets",
+              "title": "The Initials Collection",
               "url": "",
               "icon": "",
               "lb": "",
               "lb_cl": "",
-              "cat1": "all-bracelets",
-              "image1": "shopify:\/\/shop_images\/1_8d80f32b-ff18-4877-bd64-b94d9896d0f3.jpg",
+              "cat1": "the-initials-collection",
+              "image1": "shopify:\/\/shop_images\/Letter_2.jpg",
               "cat2": "",
               "cat3": "",
               "cat4": "",
