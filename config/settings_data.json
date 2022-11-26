@@ -462,7 +462,7 @@
         ],
         "settings": {
           "height": 70,
-          "arrow": true,
+          "arrow": false,
           "align": "tc",
           "hover": "hover_side_up"
         }
