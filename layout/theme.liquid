@@ -222,5 +222,57 @@ src="https://www.facebook.com/tr?id=399516132293639&ev=PageView&noscript=1"
 
 	{{ shop.metafields.loox["global_html_body"] }}
   {% include '__footerhash' %}
-</body>
+
+<!-- google dynamic remarketing tag for theme.liquid storeya.com -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11032105252"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-11032105252', {'allow_enhanced_conversions':true});
+</script>
+
+{% if template contains 'product' %}
+	<script type="text/javascript"> 
+		var price = parseFloat('{{ product.price | money_without_currency | remove: ","}}');		
+		var items = []; 	
+		{% for item in product.variants %}
+			var item ={id:'{{ product.id }}',location_id:'{{item.id}}',google_business_vertical:'custom'};
+			items.push(item);	
+		{% endfor %}			
+		gtag('event','view_item', {send_to:'AW-11032105252',value:price,currency:'{{ shop.currency }}',items:items});
+	</script>
+{% elsif template contains 'cart' %}
+	<script type="text/javascript">	
+		var items = []; 	
+		{% for item in cart.items %}
+			var item ={id:'{{ item.product.id }}',location_id:'{{ item.variant.id }}',google_business_vertical:'custom'};
+			items.push(item);				
+		{% endfor %}	
+		var total = parseFloat('{{ cart.total_price | money_without_currency | remove: ","}}');		
+		gtag('event','add_to_cart', {send_to:'AW-11032105252',value:total,currency:'{{ shop.currency }}',items:items});
+		
+	</script>
+{% endif %}
+<script  type="text/javascript">
+       window.onload = function() {
+			if (window.jQuery) {
+			  $(document).ajaxSuccess(function(event, xhr, settings) {
+			   if (settings.url == "/cart/add.js" || settings.url == "/cart/update.js"){	  
+				if(typeof gtag !== "undefined"){
+				 	 $.getJSON("/cart.js", function(data) {						
+				  if (!data.items || !data.items.length) return;
+					var items = [];
+					for (var i = 0; i < data.items.length; i++) {
+					  var item = data.items[i];
+					  var tagitem ={id:item.product_id,location_id:item.variant_id,google_business_vertical:'custom'};
+					  items.push(tagitem);									  
+					}
+					var total = parseFloat(data.total_price);		
+					gtag('event','add_to_cart', {send_to:'AW-11032105252',value:total,currency:data.currency,items:items});
+				  });}}});
+			}
+	  }
+</script>
+<!-- google dynamic remarketing tag for theme.liquid storeya.com End --></body>
 </html>
