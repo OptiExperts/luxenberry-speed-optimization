@@ -3140,6 +3140,15 @@
               "img_align": "center",
               "title": ""
             }
+          },
+          "036d131a-b590-4c5f-9542-5486a374dca9": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": "",
+              "img_align": "center",
+              "title": ""
+            }
           }
         },
         "block_order": [
@@ -3161,7 +3170,8 @@
           "b8979802-cb7f-4279-8878-074f5d8d809a",
           "36fdfc35-95b2-494e-b2d5-435236e4c312",
           "00cc9490-7431-4321-b88f-57bdc99e5730",
-          "dc3bf62e-688d-4847-bb5c-328703446d49"
+          "dc3bf62e-688d-4847-bb5c-328703446d49",
+          "036d131a-b590-4c5f-9542-5486a374dca9"
         ],
         "settings": {
           "title": "MIX N' MATCH OUR COLLECTIONS<br> 1 FOR $25 :: 2 FOR $40",
