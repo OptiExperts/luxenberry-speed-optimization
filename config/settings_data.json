@@ -3070,10 +3070,29 @@
               "title": ""
             }
           },
-          "4233bc8f-5ead-4bcd-85fe-84a29db5d52f": {
+          "ee229626-5a97-49e5-98f3-07d9a50ace41": {
             "type": "collection",
             "settings": {
-              "collection": "the-pendant-collection",
+              "collection": "the-holiday-collection",
+              "image": "shopify:\/\/shop_images\/2_f94ab42a-b4fb-4e4d-8530-7125dda3270d.jpg",
+              "img_align": "center",
+              "title": ""
+            }
+          },
+          "dc3bf62e-688d-4847-bb5c-328703446d49": {
+            "type": "collection",
+            "settings": {
+              "collection": "the-initials-collection",
+              "image": "shopify:\/\/shop_images\/Letter_2.jpg",
+              "img_align": "center",
+              "title": ""
+            }
+          },
+          "36fdfc35-95b2-494e-b2d5-435236e4c312": {
+            "type": "collection",
+            "settings": {
+              "collection": "the-zodiac-collection",
+              "image": "shopify:\/\/shop_images\/1_a7d95635-6e6e-4cc5-acf5-1525fb852bb9.jpg",
               "img_align": "center",
               "title": ""
             }
@@ -3082,6 +3101,14 @@
             "type": "collection",
             "settings": {
               "collection": "the-classic-collection",
+              "img_align": "center",
+              "title": ""
+            }
+          },
+          "4233bc8f-5ead-4bcd-85fe-84a29db5d52f": {
+            "type": "collection",
+            "settings": {
+              "collection": "the-pendant-collection",
               "img_align": "center",
               "title": ""
             }
@@ -3114,29 +3141,11 @@
               "title": "Anklet Collection"
             }
           },
-          "36fdfc35-95b2-494e-b2d5-435236e4c312": {
-            "type": "collection",
-            "settings": {
-              "collection": "the-zodiac-collection",
-              "image": "shopify:\/\/shop_images\/1_a7d95635-6e6e-4cc5-acf5-1525fb852bb9.jpg",
-              "img_align": "center",
-              "title": ""
-            }
-          },
           "00cc9490-7431-4321-b88f-57bdc99e5730": {
             "type": "collection",
             "disabled": true,
             "settings": {
               "collection": "",
-              "img_align": "center",
-              "title": ""
-            }
-          },
-          "dc3bf62e-688d-4847-bb5c-328703446d49": {
-            "type": "collection",
-            "settings": {
-              "collection": "the-initials-collection",
-              "image": "shopify:\/\/shop_images\/Letter_2.jpg",
               "img_align": "center",
               "title": ""
             }
@@ -3163,14 +3172,15 @@
           "1bf5b21d-cba6-4e76-b0af-3d5751c7e6ae",
           "63d4b9d0-b418-4747-ad32-002288e36341",
           "49031aee-5848-4324-9d7e-e862d273a8e9",
-          "4233bc8f-5ead-4bcd-85fe-84a29db5d52f",
+          "ee229626-5a97-49e5-98f3-07d9a50ace41",
+          "dc3bf62e-688d-4847-bb5c-328703446d49",
+          "36fdfc35-95b2-494e-b2d5-435236e4c312",
           "714ed7e7-4008-4fed-afc8-2e5df279ec15",
+          "4233bc8f-5ead-4bcd-85fe-84a29db5d52f",
           "5c54eec4-d6b2-4afb-973f-c608ff598d3f",
           "75da4b1f-016c-43bb-b565-a514d6bf54c5",
           "b8979802-cb7f-4279-8878-074f5d8d809a",
-          "36fdfc35-95b2-494e-b2d5-435236e4c312",
           "00cc9490-7431-4321-b88f-57bdc99e5730",
-          "dc3bf62e-688d-4847-bb5c-328703446d49",
           "036d131a-b590-4c5f-9542-5486a374dca9"
         ],
         "settings": {
