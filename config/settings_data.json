@@ -670,7 +670,7 @@
           "show_note": false,
           "show_rates": false,
           "show_discount": false,
-          "show_gift_wrap": false
+          "show_gift_wrap": true
         }
       },
       "mb_nav": {
