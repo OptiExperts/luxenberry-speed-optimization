@@ -3081,6 +3081,7 @@
           },
           "dc3bf62e-688d-4847-bb5c-328703446d49": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "the-initials-collection",
               "image": "shopify:\/\/shop_images\/Letter_2.jpg",
@@ -3090,6 +3091,7 @@
           },
           "36fdfc35-95b2-494e-b2d5-435236e4c312": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "the-zodiac-collection",
               "image": "shopify:\/\/shop_images\/1_bf10a37f-38f6-426d-be9f-8f35e99fc262.jpg",
