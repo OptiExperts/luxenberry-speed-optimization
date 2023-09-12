@@ -849,7 +849,7 @@
           "ed55de03-c37d-4c18-8cd3-88da82b0fb82": {
             "type": "catpr",
             "settings": {
-              "title": "All Necklaces",
+              "title": "SHOP NECKLACES",
               "url": "",
               "icon": "",
               "lb": "",
@@ -885,7 +885,7 @@
           "6d6047bd-0b11-4748-845b-95170a7d295d": {
             "type": "catpr",
             "settings": {
-              "title": "All Earrings",
+              "title": "SHOP EARRINGS",
               "url": "",
               "icon": "",
               "lb": "",
@@ -1939,7 +1939,7 @@
         "type": "header_banner",
         "settings": {
           "link": "shopify:\/\/pages\/copy-of-about-us",
-          "text": "SPEND $40+ GET FREE SHIPPING",
+          "text": "SPEND $40+ GET FREE SHIPPING <br>\nFREE GIFT: BUY 4 PIECES, GET A FREE TEAL JEWELRY CASE!",
           "countdown": "",
           "height": 20,
           "fontsize": 12,
