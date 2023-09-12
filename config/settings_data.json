@@ -740,6 +740,7 @@
           },
           "6f4d05b7-20da-48e6-ad8d-64d8656d5367": {
             "type": "catpr",
+            "disabled": true,
             "settings": {
               "title": "BEST SELLER: The Initials Collection",
               "url": "",
@@ -776,6 +777,7 @@
           },
           "8b7c960d-a68c-4bef-ace3-338cd13054b6": {
             "type": "catpr",
+            "disabled": true,
             "settings": {
               "title": "BEST SELLER: The Zodiac Collection",
               "url": "",
@@ -812,6 +814,7 @@
           },
           "b9ff1ff1-7d01-4d95-9289-7916c67e9fc1": {
             "type": "catpr",
+            "disabled": true,
             "settings": {
               "title": "Twisties Earrings",
               "url": "",
@@ -921,13 +924,13 @@
           "7a61cfd1-1406-4d48-bd79-b677f3baab95": {
             "type": "catpr",
             "settings": {
-              "title": "All Bracelets & Anklets",
+              "title": "SHOP BRACELETS",
               "url": "",
               "icon": "",
               "lb": "",
               "lb_cl": "",
-              "cat1": "bracelet-anklet-collection",
-              "image1": "shopify:\/\/shop_images\/1_8d80f32b-ff18-4877-bd64-b94d9896d0f3.jpg",
+              "cat1": "all-bracelets",
+              "image1": "shopify:\/\/shop_images\/XX_BRACELET.jpg",
               "cat2": "",
               "cat3": "",
               "cat4": "",
@@ -957,13 +960,13 @@
           "45ddcc86-3d4f-4308-86d7-1cf39c93685b": {
             "type": "catpr",
             "settings": {
-              "title": "All Rings",
+              "title": "SHOP RINGS",
               "url": "",
               "icon": "",
               "lb": "",
               "lb_cl": "",
               "cat1": "all-rings",
-              "image1": "shopify:\/\/shop_images\/1_48e66657-ea69-4461-b441-90e0c0df600b.jpg",
+              "image1": "shopify:\/\/shop_images\/XX_RING.jpg",
               "cat2": "",
               "cat3": "",
               "cat4": "",
