@@ -4535,7 +4535,7 @@
         "settings": {
           "layout": "nt_full",
           "cl_bg": "#ffffff",
-          "mg": "50px,,20px,",
+          "mg": "20px,,20px,",
           "pd": "",
           "mg_mb": "",
           "pd_mb": ""
