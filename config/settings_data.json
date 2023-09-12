@@ -1939,7 +1939,7 @@
         "type": "header_banner",
         "settings": {
           "link": "shopify:\/\/pages\/copy-of-about-us",
-          "text": "SPEND $40 GET FREE SHIPPING",
+          "text": "SPEND $40+ GET FREE SHIPPING",
           "countdown": "",
           "height": 20,
           "fontsize": 12,
@@ -1950,7 +1950,7 @@
           "show_icon": true,
           "txt_btn": "close",
           "cl_btn": "#ffffff",
-          "ver": 7,
+          "ver": 12,
           "date": 60
         }
       },
