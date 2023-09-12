@@ -3412,139 +3412,6 @@
         "settings": {
         }
       },
-      "16477971828cf30052": {
-        "type": "collection-list_manual",
-        "blocks": {
-          "16477971828cf30052-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "all-pendants-necklaces",
-              "image": "shopify:\/\/shop_images\/2_82e87cd5-d473-4444-8584-74e37f4036e7.jpg",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "16477971828cf30052-1": {
-            "type": "collection",
-            "settings": {
-              "collection": "all-earrings",
-              "image": "shopify:\/\/shop_images\/1_dda422f4-621b-42a0-aa12-332d71a149ca.jpg",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "16477971828cf30052-2": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "collection": "all-bracelets",
-              "image": "shopify:\/\/shop_images\/1_8d80f32b-ff18-4877-bd64-b94d9896d0f3.jpg",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "16477971828cf30052-3": {
-            "type": "collection",
-            "settings": {
-              "collection": "all-rings",
-              "image": "shopify:\/\/shop_images\/1_48e66657-ea69-4461-b441-90e0c0df600b.jpg",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "c738b17b-d7a9-4985-956a-1722b38063fc": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "collection": "anklet-collection",
-              "image": "shopify:\/\/shop_images\/1_89096d12-54ff-4297-a924-45be911b75ec.jpg",
-              "img_align": "center",
-              "title": "All Anklets",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "74b86c2f-723b-4043-b81a-d0f77e2d5606": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "collection": "the-zodiac-collection",
-              "image": "shopify:\/\/shop_images\/1_a7d95635-6e6e-4cc5-acf5-1525fb852bb9.jpg",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "87ec3a1d-7001-49bb-bdae-e74591fb4625": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "collection": "",
-              "img_align": "center",
-              "title": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "dae8bf02-b66e-4fb5-9cb0-5853342a7afc": {
-            "type": "collection",
-            "settings": {
-              "collection": "bracelet-anklet-collection",
-              "image": "shopify:\/\/shop_images\/1_8d80f32b-ff18-4877-bd64-b94d9896d0f3.jpg",
-              "img_align": "center",
-              "title": "All Bracelets & Anklets",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          }
-        },
-        "block_order": [
-          "16477971828cf30052-0",
-          "16477971828cf30052-1",
-          "16477971828cf30052-2",
-          "16477971828cf30052-3",
-          "c738b17b-d7a9-4985-956a-1722b38063fc",
-          "74b86c2f-723b-4043-b81a-d0f77e2d5606",
-          "87ec3a1d-7001-49bb-bdae-e74591fb4625",
-          "dae8bf02-b66e-4fb5-9cb0-5853342a7afc"
-        ],
-        "settings": {
-          "title": "MIX N' MATCH ALL PIECES <br> 1 FOR $25 :: 2 FOR $40",
-          "sub_title": "",
-          "sub_font": "2",
-          "style_title": "title_11",
-          "ic_tt": "gem",
-          "show_clpr": false,
-          "hoverz": true,
-          "cat_design": "1",
-          "cat_space": "30",
-          "pr_txt": "products",
-          "hidden": false,
-          "cp_code": false,
-          "layout": "container",
-          "mg": "50px,,50px,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
       "1647828789ea9a50df": {
         "type": "banner_collection",
         "blocks": {
@@ -4525,12 +4392,34 @@
               "cl_tb": "6",
               "cl_mb": "12"
             }
+          },
+          "5e6522ff-9afd-427a-8723-7e6158f0d12f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/AD_1_-_LUXENBERRY.jpg",
+              "wid": "",
+              "cl": "6",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "7baf9bd2-901b-4ce8-956b-f9ab2dfc27d5": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "wid": "",
+              "cl": "6",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
           }
         },
         "block_order": [
           "1651350533eb957978-0",
           "1651350533eb957978-1",
-          "1651350533eb957978-2"
+          "1651350533eb957978-2",
+          "5e6522ff-9afd-427a-8723-7e6158f0d12f",
+          "7baf9bd2-901b-4ce8-956b-f9ab2dfc27d5"
         ],
         "settings": {
           "layout": "nt_full",
@@ -4602,7 +4491,6 @@
       "1581508031759",
       "16049685033babeab0",
       "1651350533eb957978",
-      "16477971828cf30052",
       "1661521157cd5dfb7a",
       "165133346470e62757",
       "1581508120953",
