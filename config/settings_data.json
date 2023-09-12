@@ -1247,7 +1247,6 @@
       },
       "1582016543413": {
         "type": "collection_packery2",
-        "disabled": true,
         "blocks": {
           "1582016711856": {
             "type": "product",
@@ -1364,6 +1363,7 @@
           "1582016733617",
           "1582016749503"
         ],
+        "disabled": true,
         "settings": {
           "title": "",
           "sub_title": "",
@@ -1869,7 +1869,6 @@
       },
       "1581530479619": {
         "type": "shipping",
-        "disabled": true,
         "blocks": {
           "1581530479619-0": {
             "type": "shipping",
@@ -1913,6 +1912,7 @@
           "1581530479619-3",
           "1581530479619-1"
         ],
+        "disabled": true,
         "settings": {
           "source": "pegk",
           "icon_des": "deafult",
@@ -3073,7 +3073,7 @@
           "ee229626-5a97-49e5-98f3-07d9a50ace41": {
             "type": "collection",
             "settings": {
-              "collection": "the-holiday-collection",
+              "collection": "all-earrings",
               "image": "shopify:\/\/shop_images\/2_f94ab42a-b4fb-4e4d-8530-7125dda3270d.jpg",
               "img_align": "center",
               "title": ""
@@ -3102,7 +3102,8 @@
           "714ed7e7-4008-4fed-afc8-2e5df279ec15": {
             "type": "collection",
             "settings": {
-              "collection": "the-classic-collection",
+              "collection": "all-pendants-necklaces",
+              "image": "shopify:\/\/shop_images\/1_50545c50-f169-4c11-b569-92097e2106ed.jpg",
               "img_align": "center",
               "title": ""
             }
@@ -3110,7 +3111,8 @@
           "4233bc8f-5ead-4bcd-85fe-84a29db5d52f": {
             "type": "collection",
             "settings": {
-              "collection": "the-pendant-collection",
+              "collection": "all-bracelets",
+              "image": "shopify:\/\/shop_images\/2_de57877b-27ce-49f0-aba0-df571cc87706.jpg",
               "img_align": "center",
               "title": ""
             }
@@ -3118,7 +3120,8 @@
           "5c54eec4-d6b2-4afb-973f-c608ff598d3f": {
             "type": "collection",
             "settings": {
-              "collection": "the-colors-collection",
+              "collection": "all-rings",
+              "image": "shopify:\/\/shop_images\/3_359b807b-c8f4-451d-a10e-3ea00d42b359.jpg",
               "img_align": "center",
               "title": ""
             }
@@ -3544,7 +3547,6 @@
       },
       "1647828789ea9a50df": {
         "type": "banner_collection",
-        "disabled": true,
         "blocks": {
           "1647828789ea9a50df-0": {
             "type": "img",
@@ -3570,6 +3572,7 @@
         "block_order": [
           "1647828789ea9a50df-0"
         ],
+        "disabled": true,
         "settings": {
           "title": "Reviews",
           "sub_title": "",
@@ -3785,7 +3788,6 @@
       },
       "16513370865778f952": {
         "type": "faq",
-        "disabled": true,
         "blocks": {
           "16513370865778f952-0": {
             "type": "faq",
@@ -3838,6 +3840,7 @@
           "16513370865778f952-4",
           "16513370865778f952-5"
         ],
+        "disabled": true,
         "settings": {
           "title": "",
           "sub_title": "",
@@ -3873,7 +3876,6 @@
       },
       "16513490945c183ef6": {
         "type": "banner",
-        "disabled": true,
         "blocks": {
           "16513490945c183ef6-0": {
             "type": "image",
@@ -3921,6 +3923,7 @@
           "16513490945c183ef6-1",
           "4e5a6907-5d64-4501-b5a8-d98bf2185d1b"
         ],
+        "disabled": true,
         "settings": {
           "title": "Banner heading",
           "sub_title": "Sub Text",
@@ -3948,7 +3951,6 @@
       },
       "165134913260304e21": {
         "type": "banner2",
-        "disabled": true,
         "blocks": {
           "165134913260304e21-0": {
             "type": "image",
@@ -3991,6 +3993,7 @@
           "165134913260304e21-0",
           "165134913260304e21-1"
         ],
+        "disabled": true,
         "settings": {
           "title": "",
           "sub_title": "",
@@ -4030,7 +4033,6 @@
       },
       "1651349313b1a56231": {
         "type": "gallery",
-        "disabled": true,
         "blocks": {
           "1651349313b1a56231-0": {
             "type": "image",
@@ -4071,6 +4073,7 @@
           "1651349313b1a56231-4",
           "1651349313b1a56231-5"
         ],
+        "disabled": true,
         "settings": {
           "des_layout": "1",
           "action": "1",
@@ -4163,7 +4166,6 @@
       },
       "16513500836a051d33": {
         "type": "brand_list",
-        "disabled": true,
         "blocks": {
           "16513500836a051d33-0": {
             "type": "brand",
@@ -4216,6 +4218,7 @@
           "16513500836a051d33-4",
           "16513500836a051d33-5"
         ],
+        "disabled": true,
         "settings": {
           "title": "",
           "sub_title": "",
@@ -4250,7 +4253,6 @@
       },
       "165135011872362cba": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "165135011872362cba-0": {
             "type": "img",
@@ -4320,6 +4322,7 @@
           "165135011872362cba-1",
           "165135011872362cba-2"
         ],
+        "disabled": true,
         "settings": {
           "se_height": "adapt",
           "use_custom_h": "1",
@@ -4399,7 +4402,6 @@
       },
       "16513503830a800113": {
         "type": "featured-product",
-        "disabled": true,
         "blocks": {
           "16513503830a800113-0": {
             "type": "title",
@@ -4476,6 +4478,7 @@
           "16513503830a800113-5",
           "16513503830a800113-6"
         ],
+        "disabled": true,
         "settings": {
           "featured_product": "",
           "thumb_des": "bottom",
@@ -4540,7 +4543,6 @@
       },
       "1661521157cd5dfb7a": {
         "type": "collection-list",
-        "disabled": true,
         "blocks": {
           "1661521157cd5dfb7a-0": {
             "type": "collection",
@@ -4555,6 +4557,7 @@
         "block_order": [
           "1661521157cd5dfb7a-0"
         ],
+        "disabled": true,
         "settings": {
           "title": "The Zodiac Collection",
           "sub_title": "",
