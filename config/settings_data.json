@@ -1497,7 +1497,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/mix_n_match.png",
-              "image_mb": "shopify:\/\/shop_images\/FINAL_COVER.jpg",
+              "image_mb": "shopify:\/\/shop_images\/mix_n_match.png",
               "pos_img": "center center",
               "cl_img": "rgba(0,0,0,0)",
               "link_img1": "",
