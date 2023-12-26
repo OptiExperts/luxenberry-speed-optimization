@@ -1942,7 +1942,7 @@
         "type": "header_banner",
         "settings": {
           "link": "shopify:\/\/pages\/copy-of-about-us",
-          "text": "📥ORDERS PLACED AFTER 12\/22 WILL SHIP OUT ON JAN 4 📥 <br>\n🥳 FREE SHIPPING ON ALL ORDERS\n<br>\n🎁 ALL ORDERS GET A FREE HERRINGBONE NECKLACE <br>",
+          "text": "📥 ALL ORDERS WILL SHIP OUT ON JAN 4 📥 <br>\n🥳 FREE SHIPPING ON ALL ORDERS\n<br>\n🎁 ALL ORDERS GET A FREE HERRINGBONE NECKLACE <br>",
           "countdown": "",
           "height": 20,
           "fontsize": 12,
@@ -4521,9 +4521,9 @@
         "settings": {
           "button_color": "#10e7dc",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
       }
