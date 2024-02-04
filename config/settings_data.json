@@ -3170,7 +3170,6 @@
           },
           "collection_fKmHyN": {
             "type": "collection",
-            "disabled": true,
             "settings": {
               "collection": "galentines-limited-edition",
               "image": "shopify:\/\/shop_images\/MILLIE_2.jpg",
