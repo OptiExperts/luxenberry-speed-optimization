@@ -1493,6 +1493,28 @@
               "ani_txt": "none"
             }
           },
+          "95f28520-cc3b-4168-a17e-27bb17cafab7": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/MILLIE_1.png",
+              "image_mb": "shopify:\/\/shop_images\/1_0f35a04e-b98a-424f-b4e8-778547b2e2f8.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
           "1585640159361": {
             "type": "img",
             "settings": {
@@ -1582,28 +1604,6 @@
               "ani_txt": "none"
             }
           },
-          "95f28520-cc3b-4168-a17e-27bb17cafab7": {
-            "type": "img",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/MILLIE_1.png",
-              "image_mb": "shopify:\/\/shop_images\/1_0f35a04e-b98a-424f-b4e8-778547b2e2f8.jpg",
-              "pos_img": "center center",
-              "cl_img": "",
-              "link_img1": "",
-              "open_link": "_blank",
-              "caption_w": "2",
-              "cap_v_pos": 50,
-              "cap_h_pos": 39,
-              "txt_align": "tl_md",
-              "cap_v_pos_mb": 50,
-              "cap_h_pos_mb": 39,
-              "txt_align_mb": "tl",
-              "cl_overlay": "#000000",
-              "cl_opacity": 0,
-              "ani_img": "none",
-              "ani_txt": "none"
-            }
-          },
           "5e5b897f-69b1-4815-ad4a-2f7af1701091": {
             "type": "img",
             "settings": {
@@ -1674,11 +1674,11 @@
         "block_order": [
           "f56747f9-4d6b-48b8-94e5-f9ccd699f576",
           "1d293922-6ab7-4415-bc14-208e0df6ec67",
+          "95f28520-cc3b-4168-a17e-27bb17cafab7",
           "1585640159361",
           "4e3d7220-bc65-4059-bf1f-13ce7c8fd2bf",
           "55fa2f5d-154e-46b2-8e21-a89e006b0584",
           "b7af4bbc-da6c-47ec-af3e-7e5c022daa90",
-          "95f28520-cc3b-4168-a17e-27bb17cafab7",
           "5e5b897f-69b1-4815-ad4a-2f7af1701091",
           "0008dbca-58da-413c-bb33-2655f3a4527d",
           "5e150608-681d-43ce-a4e7-87dd936735e8"
