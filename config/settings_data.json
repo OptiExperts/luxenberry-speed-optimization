@@ -3167,6 +3167,16 @@
               "img_align": "center",
               "title": ""
             }
+          },
+          "collection_fKmHyN": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": "galentines-limited-edition",
+              "image": "shopify:\/\/shop_images\/MILLIE_2.jpg",
+              "img_align": "center",
+              "title": "SHOP MILLIE"
+            }
           }
         },
         "block_order": [
@@ -3190,7 +3200,8 @@
           "75da4b1f-016c-43bb-b565-a514d6bf54c5",
           "b8979802-cb7f-4279-8878-074f5d8d809a",
           "00cc9490-7431-4321-b88f-57bdc99e5730",
-          "036d131a-b590-4c5f-9542-5486a374dca9"
+          "036d131a-b590-4c5f-9542-5486a374dca9",
+          "collection_fKmHyN"
         ],
         "settings": {
           "title": "MIX N' MATCH OUR COLLECTIONS<br> 1 FOR $25 :: 2 FOR $40",
