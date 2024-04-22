@@ -3074,15 +3074,6 @@
               "title": ""
             }
           },
-          "collection_fKmHyN": {
-            "type": "collection",
-            "settings": {
-              "collection": "march-2024-limited-edition",
-              "image": "shopify:\/\/shop_images\/Belle_-_IG_Images_Story.png",
-              "img_align": "center",
-              "title": "SHOP BELLE"
-            }
-          },
           "ee229626-5a97-49e5-98f3-07d9a50ace41": {
             "type": "collection",
             "settings": {
@@ -3190,7 +3181,6 @@
           "1bf5b21d-cba6-4e76-b0af-3d5751c7e6ae",
           "63d4b9d0-b418-4747-ad32-002288e36341",
           "49031aee-5848-4324-9d7e-e862d273a8e9",
-          "collection_fKmHyN",
           "ee229626-5a97-49e5-98f3-07d9a50ace41",
           "dc3bf62e-688d-4847-bb5c-328703446d49",
           "36fdfc35-95b2-494e-b2d5-435236e4c312",
