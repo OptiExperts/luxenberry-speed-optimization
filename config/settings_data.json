@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "general_layout": "full_width",
@@ -1942,7 +1951,7 @@
         "type": "header_banner",
         "settings": {
           "link": "shopify:\/\/pages\/copy-of-about-us",
-          "text": "** Orders made 6\/12 - 6\/22 will ship out on 6\/23 <br>\nFREE shipping on ALL orders <br>\nFree Travel case for orders with 4 or more pieces 🤍\n<br>",
+          "text": "FREE shipping on ALL orders <br> All Pieces are Non-Tarnish  & Waterproof 💦 <br>\nFree Travel case for orders with 4 or more pieces 🤍\n<br>",
           "countdown": "",
           "height": 20,
           "fontsize": 12,
